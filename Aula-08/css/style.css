@@ -1,0 +1,33 @@
+p{
+    color: red;
+    text-align: justify;
+    text-indent: 20px;
+    line-height: 30px;
+    direction: ltr;
+    letter-spacing: 5px;
+    word-spacing: 10px;
+}
+
+h1{
+    text-align: left;
+    text-decoration: underline;
+    text-shadow: 1px 3px 4px red;
+}
+
+h2{
+    text-align: center;
+    text-decoration: overline;
+}
+
+h3{
+    text-align: right;
+    text-decoration: line-through;
+}
+
+h4{
+    text-transform: uppercase;
+}
+
+h5{
+    text-transform: lowercase;
+}

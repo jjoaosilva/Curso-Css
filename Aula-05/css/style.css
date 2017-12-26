@@ -1,0 +1,41 @@
+#conteudo1{
+    width: 400px;
+    background-color: green;
+    color: #ffff;
+    padding: 20px;
+}
+
+#conteudo2{
+    height: 50px;
+    background-color: red;
+    color: #ffff;
+    padding: 20px;
+}
+
+#conteudo3{
+    min-width: 50px;
+    background-color: green;
+    color: #ffff;
+    padding: 20px;
+}
+
+#conteudo4{
+    max-width: 100px;
+    background-color: red;
+    color: #ffff;
+    padding: 20px;
+}
+
+#conteudo5{
+    min-height: 80px;
+    background-color: green;
+    color: #ffff;
+    padding: 20px;
+}
+
+#conteudo6{
+    max-height: 50px;
+    background-color: red;
+    color: #ffff;
+    padding: 20px;
+}

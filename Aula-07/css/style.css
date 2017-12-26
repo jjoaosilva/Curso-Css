@@ -1,0 +1,27 @@
+p{
+    color: red; 
+    text-transform: capitalize
+}
+
+h1{
+    text-align: left;
+    text-decoration: underline;
+}
+
+h2{
+    text-align: center;
+    text-decoration: overline;
+}
+
+h3{
+    text-align: right;
+    text-decoration: line-through;
+}
+
+h4{
+    text-transform: uppercase;
+}
+
+h5{
+    text-transform: lowercase;
+}
